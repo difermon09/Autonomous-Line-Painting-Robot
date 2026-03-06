@@ -1,4 +1,4 @@
-<h1 align="center">🌱🤖Autonomous Line-Painting Robot🤖🌱</h1>
+<h1 align="center">🤖🎨Autonomous Line-Painting Robot🎨🤖</h1>
 
 Currently, in the subject Integrated Projects 2 at my university, my team is designing and developing from scratch an autonomous robot capable of painting lines on sports fields. <a href="https://github.com/Integrated-Project-2-2026-UVic-UCC/Line-Painting-Robot-T3/tree/main" target="_blank">Repository project link</a>
 
